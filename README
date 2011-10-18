@@ -1,3 +1,8 @@
+<<<<<<< HEAD
+conflict test
+=======
+conflict test 2
+>>>>>>> conflict_test
 change on master
 change on branch issue123
 second added
